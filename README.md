@@ -1,3 +1,4 @@
 # JulietteRepos
-My test repository
-I am ME, and I am so awesome!!
+My test repository 
+Hold files of Syntax and Test Code
+To Test access
