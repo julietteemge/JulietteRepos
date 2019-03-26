@@ -1,5 +1,5 @@
 ######### example 1 : hello world
-print("hello world\n")
+print("hello world 20190326\n")
 
 ######### example 2 : string var and new line
 print("######### example 2 : string var and new line")
