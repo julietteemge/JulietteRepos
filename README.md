@@ -1,3 +1,3 @@
-# JulietteRepos - Repository for Python snippit codes.
-Testing 
-Create folder to contain PHP files for Pet shop project
+# JulietteRepos - 
+# Contains Python snippit codes 
+# and php files for Pet Shop Project. 
